@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 up_to_date
 =======
 <<<<<<< HEAD
@@ -7,3 +8,6 @@ git pull origin
 up_to_date
 >>>>>>> 9be98dce1ddc80ca74cef62c4101d8d3c0db627d
 >>>>>>> update_script
+=======
+git pull origin
+>>>>>>> badc561251b50b8674b898f5e5aa9b650573ce1c
